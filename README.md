@@ -11,7 +11,14 @@
 [<img align='left' alt="rboud.pythonanywhere.com" width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
 
 <br />
+<br />
+<br />
 
 <img align='left' alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true' />
+
+<br />
+<br />
+<br />
+<br />
 
 [website]: http://rboud.pythonanywhere.com/
