@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img align='left' alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true' />
+<img align='left' alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true&theme=radical' />
 
 <br />
 <br />
