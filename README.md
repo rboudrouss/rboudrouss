@@ -1,13 +1,9 @@
-### Hi !
 
-## I'm a developer and an editor
+<img align='left' alt="rboudrouss' Github stats" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />
 
-- I'm currently a student learning computer science and math
-- I'm codding with Python and i'm learning Flutter
-- I love editing videos using Premier Pro and After effect
-
-### Go check my website and my youtube channel ! :
-
+### Check these out :
+|   |
+v   v
 [<img align='left' alt="rboud.pythonanywhere.com" width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
 [<img align='left' alt="youtube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb]
 
