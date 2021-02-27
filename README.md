@@ -5,11 +5,13 @@
   
 <br />  
   
-<img alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true&theme=tokyonight' width='395px' />  
+<img alt="discord tag" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />
+
   
 <br />  
 
-<img alt="discord tag" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />
+<img alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true&theme=tokyonight' width='395px' />  
+
 
 [website]: https://rboud.ml/
 [ytb]: https://www.youtube.com/channel/UCi-99XLL6EdjUwoeoLAi-PQ
