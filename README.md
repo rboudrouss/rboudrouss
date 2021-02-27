@@ -3,7 +3,7 @@
 [<img align='left' alt="rboud.pythonanywhere.com" width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
 [<img align='left' alt="youtube channel" width='22px' src='https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg' />][ytb]
   
-<br />  
+<br /><br /><br />  
   
 <img alt="discord tag" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />
 
