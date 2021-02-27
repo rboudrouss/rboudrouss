@@ -1,5 +1,8 @@
 
-<img align='left' alt="rboudrouss' Github stats" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />
+<img align='left' alt="rboudrouss' Github stats" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />  
+
+<br />
+<br />
 
 ### Check these out :
 |   |
