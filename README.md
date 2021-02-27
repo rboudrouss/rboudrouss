@@ -1,7 +1,4 @@
 
-<img align='left' alt="rboudrouss' Github stats" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' />  
-
-<br /><br /><br />
 
 ### Check these out too !
 [<img align='left' alt="rboud.pythonanywhere.com" width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />][website]
@@ -10,6 +7,11 @@
 <br /><br />
 
 <img align='left' alt="rboudrouss' Github stats" src='https://github-readme-stats.vercel.app/api?username=rboudrouss&show_incos=true&hide_border=true&theme=tokyonight' />
+
+<br /><br /><br />
+
+<img align='left' alt="rboudrouss' Github stats" src='https://discord.c99.nl/widget/theme-3/690869031531446313.png' width='395px'/>  
+
 
 [website]: https://rboud.ml/
 [ytb]: https://www.youtube.com/channel/UCi-99XLL6EdjUwoeoLAi-PQ
