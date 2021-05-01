@@ -9,7 +9,8 @@
 
 <br />  
 
-![Metrics](https://metrics.lecoq.io/rboudrouss?template=classic&isocalendar=1&languages=1&lines=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FParis)  
+![Metrics](https://metrics.lecoq.io/rboudrouss?template=classic&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FParis)  
+ 
 
 
 
