@@ -14,5 +14,5 @@
 
 
 
-[website]: https://rboud.ml/
+[website]: https://rboud.com/
 [ytb]: https://www.youtube.com/channel/UCi-99XLL6EdjUwoeoLAi-PQ
